@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <style>
+  div.container {
+	  text-align: center;
+	  border: 10px black double;
+	  background: grey;
+	  }
+  ul.unorderedList {
+	 display: inline-block;
+	 text-align: left;
+	 }
+  ol.orderedList {
+	 display: inline-block;
+	 text-align: left;
+	 }
+  </style>
+  </head>
+  <body>
+  
+  <div class="container">
+	<h1> Recipe </h1>
+	<h2> Menu: Pork Tapa </h2>
+	<h3> Ingredients: </h3>
+		<ul class="unorderedList">
+			<li>0.5 kg of pork shoulder</li>
+			<li>1 sachet of magic sarap</li>
+			<li>2 tbsp of soy sauce</li>
+			<li>0.25 tsp of ground pepper</li>
+			<li>4 cloves of garlic</li>
+			<li>2 tbsp of brown sugar</li>
+			<li>1pc of hot chili peppers</li>
+			<li>2 tbsp of vegetable oil</li>
+			<li>0.25 cup of spiced sugar</li>
+		</ul>
+	</div>
+	<div class="container">
+	<h3> Method: </h3>
+		<ol class="orderedList">
+			<li>Step 1 - Marinate with magic sarap,soy sauce,pepper garlic,sugar and chili. Refrigate overnight. </li>
+			<li>Step 2 - Remove pork tapa from the refrigerator 1 hour before cooking. </li>
+			<li>Step 3 - Sauté marinated pork in oil. Cook until golden brown. Transfer on a searing plate and serve with spiced vinegar.</li>
+		</ol>
+	</div>
+  </body>
+</html>
